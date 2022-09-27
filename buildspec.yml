@@ -1,0 +1,11 @@
+version 0.0.2
+
+pre_build:
+	commands:
+		- echo "hello"
+build:
+	commands:
+		- echo "hello"
+post_build:
+	commands:
+		- echo "hello"
